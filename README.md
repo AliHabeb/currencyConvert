@@ -21,5 +21,5 @@
 
 <h4>How to Use the API</h4>
 
-<p>just make POST request on the apiUrl and the body must have 3 parabeters (from,to,amount)</p>
+<p>just make POST request on the apiUrl and the body must have 3 propertes (from,to,amount)</p>
 
